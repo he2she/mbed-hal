@@ -9,10 +9,10 @@
   ],
   "author": "Martin Kojtal <martin.kojtal@arm.com>",
   "repository": {
-    "url": "git@github.com:ARMmbed/mbed-hal.git",
+    "url": "git@github.com:he2she/mbed-hal.git",
     "type": "git"
   },
-  "homepage": "https://github.com/ARMmbed/mbed-hal",
+  "homepage": "https://github.com/he2she/mbed-hal",
   "license": "Apache-2.0",
   "extraIncludes": [
     "mbed-hal"
@@ -46,7 +46,7 @@
       "mbed-hal-arm-ssg": "^1.0.0"
     },
     "atmel": {
-      "mbed-hal-atmel": "^1.0.0"
+      "mbed-hal-atmel": "he2she/mbed-hal-atmel#v1.0.1"
     }
   }
 }

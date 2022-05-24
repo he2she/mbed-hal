@@ -131,3 +131,7 @@ Contains:
 Dependencies: None required
 
 Target Dependencies: None required
+
+# Note
+duplicated from [ARMmbed Repo](https://github.com/ARMmbed/mbed-hal)  
+Change: dependencies are constrained.
